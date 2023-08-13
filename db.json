@@ -138,7 +138,7 @@
         "rol": "u",
         "id": 2
       },
-      "isProcessed": false,
+      "isProcessed": true,
       "id": 2
     },
     {
@@ -171,7 +171,7 @@
         "rol": "u",
         "id": 2
       },
-      "isProcessed": false,
+      "isProcessed": true,
       "id": 3
     },
     {
@@ -231,8 +231,110 @@
         "rol": "u",
         "id": 2
       },
-      "isProcessed": false,
+      "isProcessed": true,
       "id": 4
+    },
+    {
+      "cart": {
+        "items": [
+          {
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "id": 1,
+            "category": "men's clothing",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "price": "Price: $ 109.95",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "amount": 1
+          },
+          {
+            "title": "Mens Cotton Jacket",
+            "id": 3,
+            "category": "men's clothing",
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "price": "Price: $ 55.99",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "amount": 1
+          },
+          {
+            "title": "Solid Gold Petite Micropave ",
+            "id": 6,
+            "category": "jewelery",
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "price": "Price: $ 168",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "amount": 1
+          }
+        ],
+        "cantidadTotal": 3,
+        "montoTotal": 333.94
+      },
+      "user": {
+        "name": "Cliente",
+        "email": "cliente@gmail.com",
+        "phone": "12341234",
+        "id": 2
+      },
+      "isProcessed": true,
+      "id": 5
+    },
+    {
+      "cart": {
+        "items": [
+          {
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "id": 1,
+            "category": "men's clothing",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "price": "Price: $ 109.95",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "amount": "1"
+          },
+          {
+            "title": "Mens Cotton Jacket",
+            "id": 3,
+            "category": "men's clothing",
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "price": "Price: $ 55.99",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "amount": 1
+          }
+        ],
+        "cantidadTotal": 2,
+        "montoTotal": 165.94
+      },
+      "user": {
+        "name": "Cliente",
+        "email": "cliente@gmail.com",
+        "phone": "12341234",
+        "id": 2
+      },
+      "isProcessed": true,
+      "id": 6
+    },
+    {
+      "cart": {
+        "items": [
+          {
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "id": 1,
+            "category": "men's clothing",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "price": "Price: $ 109.95",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "amount": 1
+          }
+        ],
+        "cantidadTotal": 1,
+        "montoTotal": 109.95
+      },
+      "user": {
+        "name": "Cliente",
+        "email": "cliente@gmail.com",
+        "phone": "12341234",
+        "id": 2
+      },
+      "isProcessed": false,
+      "id": 7
     }
   ]
 }
